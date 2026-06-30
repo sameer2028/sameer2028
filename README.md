@@ -65,7 +65,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sameer2028&repo=grievance-portal&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
-**JanSamadhan** — AI-Powered Public Grievance Portal built for Smart India Hackathon.  
+**JanSamadhan** — AI-Powered Smart Public Grievance Portal.  
 `React` `Node.js` `MongoDB` `Python` `FastAPI` `Tailwind CSS` `Machine Learning`
 
 🔗 [Live Demo](https://jansamadhan-up.vercel.app/) • [Repository](https://github.com/sameer2028/grievance-portal)
@@ -91,12 +91,11 @@
 - 📚 Strong foundation in **Data Structures & Algorithms**
 - 🎯 Focused on problem-solving patterns, graphs, DP, and trees
 
-<!--
-Uncomment and add your CP profile links below:
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_USERNAME)
--->
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sameer2028)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sameer2028)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sameer2028)
+
 
 ---
 
