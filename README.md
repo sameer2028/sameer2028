@@ -5,7 +5,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Competitive+Programmer+%7C+DSA+Geek;MERN+Stack+%7C+Python+%7C+C%2B%2B;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
   <p>
-    <a href="www.linkedin.com/in/sameer2028"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/sameer2028"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:sameerupadhyay0133@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://sameer-portfolio-ecru.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   </p>
@@ -59,28 +59,82 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<a href="https://github.com/sameer2028/grievance-portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sameer2028&repo=grievance-portal&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**JanSamadhan** — AI-Powered Smart Public Grievance Portal.  
-`React` `Node.js` `MongoDB` `Python` `FastAPI` `Tailwind CSS` `Machine Learning`
+### 🏛️ JanSamadhan
+**AI-Powered Public Grievance Portal**
 
-🔗 [Live Demo](https://jansamadhan-up.vercel.app/) • [Repository](https://github.com/sameer2028/grievance-portal)
+AI-powered platform that auto-classifies citizen complaints, routes them to government departments using ML, and provides real-time analytics with geographic heatmaps.
+
+`React` `Node.js` `MongoDB` `Python` `FastAPI` `Tailwind CSS`
+
+🔗 [Live Demo](https://jansamadhan-up.vercel.app/) · [Repository](https://github.com/sameer2028/grievance-portal)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ QuickServe
+**Quick Service Web Application**
+
+A full-stack service platform built with the MERN stack. Features a modern UI, user authentication, and seamless service management capabilities.
+
+`React` `Node.js` `Express` `MongoDB` `JavaScript`
+
+🔗 [Live Demo](https://quickserve-alpha-six.vercel.app) · [Repository](https://github.com/sameer2028/quickserve)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Personal Portfolio
+**Developer Portfolio Website**
+
+A clean, responsive portfolio website showcasing my projects, skills, and experience. Built with modern web technologies and deployed on Vercel.
+
+`React` `JavaScript` `CSS` `Vercel`
+
+🔗 [Live Demo](https://sameer-portfolio-ecru.vercel.app) · [Repository](https://github.com/sameer2028/sameer-portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 More Coming Soon...
+**Always building something new!**
+
+Currently exploring AI/ML integrations, competitive programming, and full-stack development. Stay tuned for more projects!
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameer2028&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer2028&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sameer2028&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sameer2028&show_icons=true&theme=default&hide_border=true&border_radius=10&count_private=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameer2028&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer2028&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer2028&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer2028&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+  </picture>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer2028&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sameer2028&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
@@ -91,11 +145,13 @@
 - 📚 Strong foundation in **Data Structures & Algorithms**
 - 🎯 Focused on problem-solving patterns, graphs, DP, and trees
 
+<p>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sameer2028)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sameer2028)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sameer2028)
 
+</p>
 
 ---
 
