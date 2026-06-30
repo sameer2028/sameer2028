@@ -5,9 +5,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Competitive+Programmer+%7C+DSA+Geek;MERN+Stack+%7C+Python+%7C+C%2B%2B;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
   <p>
-    <a href="https://www.linkedin.com/in/sameer-upadhyay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:sameer@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="www.linkedin.com/in/sameer2028"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:sameerupadhyay0133@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://sameer-portfolio-ecru.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=sameer2028&style=flat-square&color=10B981" alt="Profile views"/>
@@ -21,7 +21,6 @@
 - 💻 Full Stack Developer specializing in the **MERN Stack**
 - 🤖 AI/ML Enthusiast — building intelligent web applications
 - 🏆 Competitive Programmer & DSA problem solver
-- 🇮🇳 Smart India Hackathon participant
 
 ---
 
