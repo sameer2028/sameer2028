@@ -117,16 +117,8 @@ Currently exploring AI/ML integrations, competitive programming, and full-stack 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sameer2028&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sameer2028&show_icons=true&theme=default&hide_border=true&border_radius=10&count_private=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameer2028&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer2028&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer2028&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer2028&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
-  </picture>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sameer2028&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sameer2028&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
